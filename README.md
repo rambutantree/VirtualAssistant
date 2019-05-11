@@ -1,3 +1,4 @@
 # VirtualAssistant
-You can get solutions to selected activities for the course.
+Within here are selected solutions to activities for the course.
 If there are errors, typos or suggestions, please let me know.
+Keep learning!
